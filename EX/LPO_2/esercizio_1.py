@@ -1,5 +1,5 @@
-# Scrivete un programma che acquisisca in input una sequenza 
-# di numeri e li memorizzi in una tupla. (I numeri dovranno 
+# Scrivete un programma che acquisisca in input una sequenza
+# di numeri e li memorizzi in una tupla. (I numeri dovranno
 # essere acquisiti uno alla volta).
 
 tupla = () # una tupla vuota
