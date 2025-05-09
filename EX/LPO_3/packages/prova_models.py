@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from models.clibro import CLibro
 # si può fare anche import *
 # ma è sconsigliato perché non si sa cosa si importa
