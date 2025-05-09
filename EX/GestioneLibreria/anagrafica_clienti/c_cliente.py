@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CCliente:
 
     def __init__(self, idx, numero_telefono):

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
     Durante l'esecuzione di un programma, possono verificarsi errori
     imprevisti che interrompono il normale flusso di esecuzione.

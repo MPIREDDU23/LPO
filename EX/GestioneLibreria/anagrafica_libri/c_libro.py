@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CLibro:
 
     def __init__(self, titolo, autore, editore, prezzo, anno_pubblicazione):

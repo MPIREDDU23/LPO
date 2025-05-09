@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CEsame:
     def __init__(self, codice_esame):
         self._codice_esame = self._controlla_codice(codice_esame)

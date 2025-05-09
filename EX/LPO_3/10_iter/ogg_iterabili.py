@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
     L'istruzione iterativa for può essere utilizzata con istanze
     di diverde classi: 

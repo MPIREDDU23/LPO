@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # __init__ viene chiamato quando creo un oggetto e 
 # lo inizializzo
 

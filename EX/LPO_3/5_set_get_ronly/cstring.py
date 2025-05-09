@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CStringa:
     def __init__(self, string):
         self._lunghezza = None # definiamo l'attributo di sola lettura

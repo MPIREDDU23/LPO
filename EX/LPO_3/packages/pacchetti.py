@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # se il progetto è di grande dimensioni, è meglio usare i packages
 # che organizzano il codice in moduli
 # un pacchetto è una cartella che organizza diversi moduli

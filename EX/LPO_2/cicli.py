@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # for <variabile> in <iterabile>:
 #     <istruzioni>
 

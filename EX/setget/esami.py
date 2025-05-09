@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CEsame:
     def __init__(self, nome, voto):
         self.nome = nome

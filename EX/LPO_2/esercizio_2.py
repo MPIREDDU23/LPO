@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 lista = [] # lista vuota
 
 quanti_numeri = int(input("Quanti numeri vuoi inserire? "))

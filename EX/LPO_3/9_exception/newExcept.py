@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Tra le altre cose è anche possibile definire nuove eccezioni
 #
 # le eccezioni sono oggetti: 

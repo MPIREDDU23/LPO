@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # from anagrafica_libri.c_libro import CLibro
 from .c_libro import CLibro  # import relativo
 """

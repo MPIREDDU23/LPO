@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # oggetti iteratori
 # oggetti iterabili
 

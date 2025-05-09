@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # mi serve una classe programmatore, una sotto classe junior e una sotto classe senior
 # la classe programmatore ha un attributo nome, uno cognome e uno stipendio (di 1500 euro)
 # la classe junior ha un attributo bonus di 500 euro

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # supponiamo di avere 4 classi
 # class A()
 # class B(A)

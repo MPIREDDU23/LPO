@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from ogg_iteratori import CIteratore2Elementi
 class CNuovaStringa():
     def __init__(self, stringa):

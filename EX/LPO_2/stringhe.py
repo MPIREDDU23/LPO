@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 nome_e_cognome = "Albert Einstein"
 nome = nome_e_cognome[:6] # "Albert"
 cognome = nome_e_cognome[7:] # "Einstein"

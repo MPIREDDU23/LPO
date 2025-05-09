@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from collections.abc import Iterator
 
 class CIteratore2Elementi(Iterator):

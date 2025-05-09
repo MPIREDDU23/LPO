@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 s = "Linguaggi di programmazione 33.8999"
 
 l = s.split()

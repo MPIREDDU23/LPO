@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CCliente():
     def __init__(self, nome_cliente, numero_telefono):
         self.nome = nome_cliente

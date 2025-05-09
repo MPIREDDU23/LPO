@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from .c_cliente import CCliente
 
 class CAzienda(CCliente):

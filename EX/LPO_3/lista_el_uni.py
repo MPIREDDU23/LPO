@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CListaElementiUnici(list):
     def append(self, elemento):
         if elemento not in self:

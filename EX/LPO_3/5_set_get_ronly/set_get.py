@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CPunto():
     def __init__(self, x):
         self.x = x

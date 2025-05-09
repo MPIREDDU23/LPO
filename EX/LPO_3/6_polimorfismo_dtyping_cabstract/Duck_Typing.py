@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # If it walks like a duck and quacks like a duck, it is a duck
 # In python, se devo definire delle classi diverse che funzionano in 
 # modo diverso in base al tipo di oggetto che sono, posso definire la medesima

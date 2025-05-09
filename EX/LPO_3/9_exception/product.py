@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class CProdotto: 
     def __init__(self, idx_prodotto, prezzo):
         self.controlla_prezzo(prezzo)

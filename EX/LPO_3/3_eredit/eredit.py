@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # in python una classe può ereditare da più classi
 # in questo caso si parla di eredità multipla
 
