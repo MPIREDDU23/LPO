@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3
-
 #!/usr/bin/env python3
 
 # l'ereditarietà multipla si può usare quando si hanno

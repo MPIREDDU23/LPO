@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3
-
 #!/usr/bin/env python3
 
 # se il progetto è di grande dimensioni, è meglio usare i packages

@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3
-
 #!/usr/bin/env python3
 
 # i metodi di istanza, sono i metodi che possono essere chiamati

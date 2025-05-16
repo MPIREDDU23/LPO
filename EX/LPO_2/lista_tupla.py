@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3
-
 #!/usr/bin/env python3
 
 tupla = (1,) # una tupla con un solo elemento

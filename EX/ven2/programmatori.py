@@ -1,5 +1,3 @@
-#!/opt/homebrew/bin/python3
-
 #!/usr/bin/env python3
 
 # mi serve una classe programmatore, una sotto classe junior e una sotto classe senior
