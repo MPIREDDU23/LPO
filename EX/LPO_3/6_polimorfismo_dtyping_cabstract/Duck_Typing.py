@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 #!/usr/bin/env python3
 
 # If it walks like a duck and quacks like a duck, it is a duck

@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 #!/usr/bin/env python3
 
 from ogg_iteratori import CIteratore2Elementi

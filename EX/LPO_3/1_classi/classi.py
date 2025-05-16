@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 #!/usr/bin/env python3
 
 # sintassi della dichiarazione di una classe class C<ClassName>

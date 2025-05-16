@@ -1,3 +1,5 @@
+#!/opt/homebrew/bin/python3
+
 #!/usr/bin/env python3
 
 # __init__ viene chiamato quando creo un oggetto e 
