@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 from ogg_iteratori import CIteratore2Elementi
 class CNuovaStringa():

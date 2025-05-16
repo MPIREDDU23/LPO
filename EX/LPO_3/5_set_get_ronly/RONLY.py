@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 class CEsame:
     def __init__(self, codice_esame):

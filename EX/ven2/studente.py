@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 class CStudente:
     def __init__(self, nome, cognome, matricola):

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # If it walks like a duck and quacks like a duck, it is a duck
 # In python, se devo definire delle classi diverse che funzionano in 

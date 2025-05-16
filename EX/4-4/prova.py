@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # creare la classe CListaElementiUnici che eredita dalla classe built-in lista
 

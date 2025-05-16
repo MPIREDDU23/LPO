@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 """
     Durante l'esecuzione di un programma, possono verificarsi errori

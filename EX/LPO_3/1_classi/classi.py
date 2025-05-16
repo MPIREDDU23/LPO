@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # sintassi della dichiarazione di una classe class C<ClassName>
 # una classe è un tipo di dato definito dall'utente

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 class CCliente:
     def __init__(self, idx: int, __numero_telefono: str):

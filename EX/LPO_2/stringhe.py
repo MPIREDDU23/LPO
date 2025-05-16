@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 nome_e_cognome = "Albert Einstein"
 nome = nome_e_cognome[:6] # "Albert"

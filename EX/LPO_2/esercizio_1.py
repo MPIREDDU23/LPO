@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # Scrivete un programma che acquisisca in input una sequenza
 # di numeri e li memorizzi in una tupla. (I numeri dovranno

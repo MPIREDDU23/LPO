@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 class CVoto_esame:
     def __init__(self, nome_esame: str, voto_primo_parzziale: int, voto_secondo_parziale: int):

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # se il progetto è di grande dimensioni, è meglio usare i packages
 # che organizzano il codice in moduli

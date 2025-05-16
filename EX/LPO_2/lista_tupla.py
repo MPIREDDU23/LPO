@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 tupla = (1,) # una tupla con un solo elemento
 lista = [1] # una lista con un solo elemento

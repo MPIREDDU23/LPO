@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 """
     L'istruzione iterativa for può essere utilizzata con istanze

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # attributi di istanza -> specifici per ogni oggetto
 # attributi di classe -> condivisi tra tutti gli oggetti

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # mi serve una classe programmatore, una sotto classe junior e una sotto classe senior
 # la classe programmatore ha un attributo nome, uno cognome e uno stipendio (di 1500 euro)

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 from models.clibro import CLibro
 # si può fare anche import *

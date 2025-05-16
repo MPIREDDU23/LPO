@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 """
 Questo script serve per mostrare che è possibile utilizzare oggetti definiti in

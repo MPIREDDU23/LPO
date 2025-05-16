@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/homebrew/bin/python3
 
 # def <function_name>(<parameter_name>, ..., <parameter_name>):
 #     """
